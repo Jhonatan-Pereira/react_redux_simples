@@ -31,4 +31,4 @@ Clique em [http://localhost:3000](http://localhost:3000) para visualizar no brow
 Jhonatan Frade <jhonatanfrade.pereira@gmail.com>
 
 
-[viewport]: https://github.com/Jhonatan-Pereira/redux-simples/blob/master/assets/viewport.png "Viewport"
+[viewport]: https://github.com/Jhonatan-Pereira/redux-simples/blob/master/assets/viewport.png?raw=true "Viewport"
