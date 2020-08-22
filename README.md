@@ -4,6 +4,8 @@
   </h1>
 </p>
 
+![Viewport do Projeto][viewport]
+
 ## About
 Este Projeto foi desenvolvido para fins acadêmicos através do curso [Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!](https://www.udemy.com/course/react-redux-pt/) da [Cod3r](https://github.com/cod3rcursos).
 
@@ -27,3 +29,6 @@ Clique em [http://localhost:3000](http://localhost:3000) para visualizar no brow
 # Author
 
 Jhonatan Frade <jhonatanfrade.pereira@gmail.com>
+
+
+[viewport]: https://github.com/Jhonatan-Pereira/redux-simples/assets/viewport.png "Viewport"
