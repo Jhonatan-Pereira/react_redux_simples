@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  curso-react:
+    image: curso-react
+    build: .
+    ports: 
+      - "8081:80"
